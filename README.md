@@ -1,8 +1,6 @@
 # Hi, I'm Dhanush 👋
 
-Fresher Full Stack Developer | Java · React · Spring Boot · MySQL
-
-I'm an MCA student building full-stack web applications, with a growing interest in AI/data projects on the side.
+Fresher Full Stack Developer with a growing interest in data analysis and QA/testing. I build web applications using Java, React, and Spring Boot, and bring an analytical, detail-oriented approach from data analysis and testing work.
 
 ## Tech Stack
 
@@ -10,6 +8,7 @@ I'm an MCA student building full-stack web applications, with a growing interest
 **Frontend:** React JS, HTML, CSS
 **Backend:** Spring Boot, REST APIs
 **Database:** MySQL
+**Data & Testing:** Data Analysis (Excel, pandas), QA/Manual Testing
 **Tools:** Git, Maven
 
 ## Projects
